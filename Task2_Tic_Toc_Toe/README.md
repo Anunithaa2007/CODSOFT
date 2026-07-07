@@ -15,7 +15,6 @@ This project is a Tic Tac Toe game developed in Python as part of the CodSoft Ar
 ## How to Run
 1. Install Python.
 2. Open the project folder.
-3. Run:
-   python tic_toc_toe.py
+3. Run:tic_toc_toe.py
 
 
